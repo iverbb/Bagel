@@ -1,4 +1,4 @@
-mltoolkit
+ml-toolkit
 torch==0.4
 torchvision
 visdom
@@ -12,7 +12,6 @@ numba
 pandas
 tables
 sklearn
-mltoolkit
 statsmodels
 dill
 pymongo
